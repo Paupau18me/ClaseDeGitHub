@@ -1,0 +1,17 @@
+git --version
+devuelve la verision que tenemos de git
+
+git init 
+inicializa un repositorio local
+
+git status
+me da el estado de los archovos en mi repositorio
+
+git add nombre del arvhivo con su esxtension(uno en uno)
+git add . -> (todos los archivos en espera)
+agrega mis archivos al area de espera
+
+git commit -m "Mensaje"
+Agrega mis achovos al repositorio local
+
+
