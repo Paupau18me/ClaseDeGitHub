@@ -14,4 +14,4 @@ agrega mis archivos al area de espera
 git commit -m "Mensaje"
 Agrega mis achovos al repositorio local
 
-
+git log 
